@@ -1,0 +1,3 @@
+C:/Users/rusty/Code/Life/build/CMakeFiles/main.dir
+C:/Users/rusty/Code/Life/build/CMakeFiles/edit_cache.dir
+C:/Users/rusty/Code/Life/build/CMakeFiles/rebuild_cache.dir
