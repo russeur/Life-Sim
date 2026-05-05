@@ -15,8 +15,8 @@ A life simulator with organisms using natural selection and a grid based map
 
 You must have SDL2 and SDL2_ttf installed
 
-Use CMake then make
+Copy all files in lib into new build folder
 
-use 'main' to run
+Use CMake then make in the build the folder
 
-
+execute 'main' program 
