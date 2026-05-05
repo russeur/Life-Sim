@@ -1,7 +1,7 @@
 # Life-Sim
 
 
-I life simulator with organisms using natural selection and a grid based map 
+A life simulator with organisms using natural selection and a grid based map 
 
 <img width="503" height="501" alt="Life1" src="https://github.com/user-attachments/assets/3f019856-1255-4482-9534-dade9d0a94c4" />
 
